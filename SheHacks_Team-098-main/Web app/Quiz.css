@@ -1,0 +1,40 @@
+body{
+    color:black;
+}
+
+.choice-container  {
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 5%;
+    border-radius: 1px;
+    background: #eddcd9;
+    font-size: 2rem;
+    min-width: 10rem;
+    -ms-flex-align: baseline;
+}
+
+.choice-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(239, 227, 233, 0.5);
+    transform: scale(1.02);
+    transform: transform 100ms;
+}
+
+.choice-prefix{
+    padding: 2rem 2.5rem;
+    color: white;
+}
+
+.choice-text {
+    padding: 2rem;
+    width: 100%;
+}
+
+.correct {
+    background: linear-gradient(32 deg, rgba(11, 223, 36) 0%, rgb(41, 232, 111) 100%)
+}
+
+.incorrect {
+    background: linear-gradient(32 deg, rgba(230, 29, 1) 0%, rgb(224, 11, 1) 100%)
+}
+
