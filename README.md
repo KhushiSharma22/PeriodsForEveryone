@@ -10,7 +10,7 @@
 
 - Features
  <p align="center">
-  <img src="resources/Main Page.png"/>
+  <img src="resources/Features.png"/>
  </p>
  
  - Male Corner
