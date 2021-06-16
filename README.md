@@ -6,6 +6,11 @@
   <img src="resources/Main Page.png"/>
  </p>
 
+- Features
+ <p align="center">
+  <img src="resources/Main Page.png"/>
+ </p>
+ 
 - Technologies used: HTML, CSS, JavaScript, Tailwind CSS
 
 - You can check out the project here: [PeriodsForEveryone](https://khushisharma22.github.io/PeriodsForEveryone/)
